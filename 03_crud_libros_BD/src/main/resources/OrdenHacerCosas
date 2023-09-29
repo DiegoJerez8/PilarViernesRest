@@ -1,0 +1,10 @@
+1- Crear el proyecto y elegir los starter (Spring Web, Spring Data JPA, MySQL Driver, ....)
+2- Definir el modelo
+3- Definir la capa DAO (capa de acceso a datos, también se llama repository)
+4- Crear la capa de servicio ( el interface)
+5- En la capa de servicio hacer la implementación
+6- Implementar el controlador
+7- Configuraciones
+ 7-1 En Application.java (la clase lanzadera)
+ 
+ 7-2 En src/main/resources/application.properties
